@@ -19,7 +19,7 @@ Components needed: ESP32 TTGO T-Display, type-C wire, computer
 
 7. After we plugged in our esp32s into the platform, connected the platform to a controllable power supplier and turned on the power, our esp32s started to dispaly the visual messages:
 
-![IMG_9309.jpg](IMG_9309.jpg)
+![IMG_9719.jpg](IMG_9719.jpg)
 
 8. This sketch_love program make the esp32 to display visuals as follows: it shows some pink, large digits of “5201314” at first, and then shows the words “Please!”, “Love!”, “Yourself!” in black subsequently, and then it shows a long sentence of black text in pink background saying “It’s more importanat than loving anyone else in the world!”, and then it repeats from the start as only showing the digits.
 
