@@ -1,6 +1,6 @@
 # Build a generative art using ESP32 TTGO T-Display
 
-Components needed: ESP32 TTGO T-Display, type-C wire, computer
+Components needed: ESP32 TTGO T-Display, type-C wire, laptop
 
 1. Firstly, download the correct version of Arduino that fit your computer system
 2. Open the sketch_love.ino with the Arduino
